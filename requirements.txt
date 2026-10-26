@@ -1,0 +1,13 @@
+
+duckdb>=1.0
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+streamlit
+plotly
+pytest
+pyarrow

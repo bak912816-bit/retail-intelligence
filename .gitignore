@@ -1,0 +1,27 @@
+
+# Données et bases locales
+data/
+*.duckdb
+*.db
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets et variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Outils de développement
+.vscode/
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+*.log
